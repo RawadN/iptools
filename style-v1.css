@@ -1118,7 +1118,7 @@ input:checked~.checkbox {
     background-size: 25% 100%;
     background-repeat: no-repeat;
     cursor: pointer;
-    -webkit-appearance: none;
+ 
     height: 7px;
 }
 
@@ -1170,7 +1170,6 @@ input[type="number"] {
         0px 1px 1px 0px rgba(0, 0, 0, 0.24);
     box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.12),
         0px 1px 1px 0px rgba(0, 0, 0, 0.24);
-    -webkit-appearance: none;
     -webkit-transition: all 0.2s linear;
     transition: all 0.2s linear;
 }
